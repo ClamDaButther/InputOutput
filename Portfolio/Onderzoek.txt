@@ -1,0 +1,16 @@
+Inleiding:
+Dit document is bedoeld voor het begrijpen van de onderdelen en codes die gebruikt worden voor het sonar project.
+
+
+Uitvoering:
+Ik heb onderzocht welke servo het beste was om te gebruiken en ik kwam uit dat deze servo het makkelijkst te gebruiken was kwa onderdelen en grote.
+Er was geen keuze aan sonars, dus ik heb de enigste soort sonar gepakt en daar dingen over opgezocht om ermee te kunnen werken.
+We hebben in het begin veel met Arduino UNO gewerkt en voelde me zelf daar het meest comfortabel bij om te gebruiken, dat was de reden dat ik met die board wou werken.
+
+
+Bronnen:
+https://en.wikipedia.org/wiki/Arduino_Uno
+https://randomnerdtutorials.com/complete-guide-for-ultrasonic-sensor-hc-sr04/
+https://www.intorobotics.com/tutorial-how-to-control-the-tower-pro-sg90-servo-with-arduino-uno/
+
+Tim Gijzen GD2B

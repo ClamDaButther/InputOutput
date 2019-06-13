@@ -1,0 +1,16 @@
+Inleiding:
+Gaat over het design van de aplicatie.
+
+
+Ontwerp document:
+Ik wou het er laten uitzien als een echte radar maar omdat het met een gluid singiaal word gedaan kan je geen perfecte figuren krijgen
+waarbij je dus alleen de breete kan zien.
+Dus na wat foto's kijken op internet kwam ik uit op een strak ontwerp met zwart, groen en rood als de hoofd kleuren(ook de enige).
+
+Bron Foto's:
+https://tuelectronica.es/sonar-con-processing/
+https://www.vectorstock.com/royalty-free-vector/radar-and-sonar-screen-detection-monitor-vector-10742359
+(Soortvan stijlbord?)
+
+
+Tim Gijzen GD2B

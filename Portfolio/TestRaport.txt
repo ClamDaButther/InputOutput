@@ -1,0 +1,18 @@
+Testplan:
+Kijken of de aplicatie goed laat zien wat i moet laten zien.
+
+
+Testrapport:
+Test1. Laat soms vreemde objecten zien wat er niet staat, stopt soms met scannen.
+Test2. Stopt soms met scannen.
+Test3. Werkt goed genoeg, maar ziet er nog niet 100 strak uit van wat de omvang is van het object.
+Test4. Alles werkt prima, alleen de distance wat je visueel ziet(onder in de aplicatie) gaat te snel weg.
+
+
+
+Links naar usertests:
+https://www.youtube.com/watch?v=POPAaLn5Ibo
+
+
+
+Tim Gijzen GD2B
